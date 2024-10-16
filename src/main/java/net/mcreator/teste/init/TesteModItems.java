@@ -12,11 +12,13 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.BlockItem;
 
+import net.mcreator.teste.item.BbbbbbbbbbbbbbbbbbbItem;
 import net.mcreator.teste.TesteMod;
 
 public class TesteModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, TesteMod.MODID);
 	public static final RegistryObject<Item> AAAAAAAAAAAAAAAAAAAAAAAAAAA = block(TesteModBlocks.AAAAAAAAAAAAAAAAAAAAAAAAAAA);
+	public static final RegistryObject<Item> BBBBBBBBBBBBBBBBBBB = REGISTRY.register("bbbbbbbbbbbbbbbbbbb", () -> new BbbbbbbbbbbbbbbbbbbItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items
