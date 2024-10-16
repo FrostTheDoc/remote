@@ -1,0 +1,52 @@
+{
+  "mod_elements": [
+    {
+      "name": "Aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/teste/blockstates/aaaaaaaaaaaaaaaaaaaaaaaaaaa.json",
+          "src/main/resources/assets/teste/models/block/aaaaaaaaaaaaaaaaaaaaaaaaaaa.json",
+          "src/main/resources/data/teste/loot_tables/blocks/aaaaaaaaaaaaaaaaaaaaaaaaaaa.json",
+          "src/main/java/net/mcreator/teste/block/AaaaaaaaaaaaaaaaaaaaaaaaaaaBlock.java",
+          "src/main/resources/assets/teste/models/item/aaaaaaaaaaaaaaaaaaaaaaaaaaa.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.teste.aaaaaaaaaaaaaaaaaaaaaaaaaaa": "Aaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "teste",
+    "modName": "teste",
+    "version": "1.0.0",
+    "author": "FrostTheDoc, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "mcreator_link"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.teste"
+  },
+  "mcreatorVersion": 202400340615
+}
