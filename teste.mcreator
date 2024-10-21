@@ -9,10 +9,23 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/teste/blockstates/aaaaaaaaaaaaaaaaaaaaaaaaaaa.json",
-          "src/main/resources/assets/teste/models/block/aaaaaaaaaaaaaaaaaaaaaaaaaaa.json",
           "src/main/resources/data/teste/loot_tables/blocks/aaaaaaaaaaaaaaaaaaaaaaaaaaa.json",
+          "src/main/resources/assets/teste/models/block/aaaaaaaaaaaaaaaaaaaaaaaaaaa.json",
           "src/main/java/net/mcreator/teste/block/AaaaaaaaaaaaaaaaaaaaaaaaaaaBlock.java",
           "src/main/resources/assets/teste/models/item/aaaaaaaaaaaaaaaaaaaaaaaaaaa.json"
+        ]
+      }
+    },
+    {
+      "name": "Bbbbbbbbbbbbbbbbbbbbbbbb",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bbbbbbbbbbbbbbbbbbbbbbbb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/teste/models/item/bbbbbbbbbbbbbbbbbbbbbbbb.json",
+          "src/main/java/net/mcreator/teste/item/BbbbbbbbbbbbbbbbbbbbbbbbItem.java"
         ]
       }
     }
@@ -23,6 +36,7 @@
   "tab_element_order": {},
   "language_map": {
     "en_us": {
+      "item.teste.bbbbbbbbbbbbbbbbbbbbbbbb": "Bbbbbbbbbbbbbbbbbbbbbbbb",
       "block.teste.aaaaaaaaaaaaaaaaaaaaaaaaaaa": "Aaaaaaaaaaaaaaaaaaaaaaaaaaa"
     }
   },
@@ -48,5 +62,5 @@
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.teste"
   },
-  "mcreatorVersion": 202400340615
+  "mcreatorVersion": 202400342716
 }
